@@ -12,6 +12,13 @@
 
 Porthole lists every device on your tailnet in the menu bar. One click opens Screen Sharing, a file share, an SSH session, or Remote Desktop. There is nothing to configure: if Tailscale can see a device, Porthole shows it.
 
+<p align="center">
+  <img src="screenshots/popover.png" width="300" alt="Porthole menu bar list with five devices">
+</p>
+<p align="center">
+  <img src="screenshots/settings.png" width="600" alt="Porthole settings window, Devices page">
+</p>
+
 ## Features
 
 - **Automatic device list.** Devices come from Tailscale, so new machines appear on their own.
